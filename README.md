@@ -63,12 +63,12 @@ We welcome contributions to enhance the program! To contribute:
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a detailed explanation.
 
-**Refer to the [LICENSE](LICENSE.md)** before contributing.
+**Refer to the [LICENSE](https://github.com/Purohit1999/File-compression-Decompression-/blob/main/LICENSE)** before contributing.
 
 ---
 
 ## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Purohit1999/File-compression-Decompression-/blob/main/LICENSE) file for more details.
 
 ---
 
